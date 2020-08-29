@@ -16,4 +16,4 @@ Aluno: Felipe Marques.
 
 ## Imagem do Projeto
 
-![React Juros Composto](publicprint-juros-compostos.png)
+![React Juros Composto](public/print-juros-compostos.png)
